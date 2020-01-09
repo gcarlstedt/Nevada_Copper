@@ -1,3 +1,3 @@
-# Nevada_Copper
+# Nevada Copper
 
 Sample work projects utilizing Python 
