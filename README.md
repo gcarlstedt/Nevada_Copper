@@ -3,7 +3,7 @@
 Sample work projects utilizing Python 
 
 Experience using packages such as: 
-• numpy
-• pandas
-• matplotlib
-• scikit-learn
+> numpy
+> pandas
+> matplotlib
+> scikit-learn
