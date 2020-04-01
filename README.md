@@ -7,3 +7,4 @@ Experience using packages such as:
 > pandas
 > matplotlib
 > scikit-learn
+> statsmodel
